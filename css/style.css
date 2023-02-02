@@ -5,6 +5,7 @@ body{
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 0px;
 }
 
 h1{
@@ -81,7 +82,7 @@ div{
 }
 
 .green{
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-bottom: none;
@@ -102,4 +103,5 @@ footer > p{
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
+    padding-left: 0px;
 }
